@@ -1,3 +1,6 @@
+Install giphy API components
+yarn add @giphy/react-components @giphy/js-fetch-api
+npm i @giphy/react-components @giphy/js-fetch-api
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
